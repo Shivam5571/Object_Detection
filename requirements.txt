@@ -1,8 +1,8 @@
 # Streamlit App and Dependencies
 streamlit==1.33.0
 
-# PyTorch (compatible CPU version)
-torch==2.2.2+cpu
+# PyTorch (latest compatible CPU version)
+torch==2.2.2
 
 # YOLOv8 Ultralytics
 ultralytics==8.0.178
