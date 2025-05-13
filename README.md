@@ -46,7 +46,7 @@ numpy
 ```
 object_detection/
 │
-├── app.py                  # Main Streamlit app
+├── app copy.py                  # Main Streamlit app
 ├── yolov8n.pt              # YOLOv8 model (auto-downloaded if not present)
 ├── photo-ai.jpeg           # Background image
 ├── cinevo ai.jpg           # Sidebar circular logo
