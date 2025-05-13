@@ -16,7 +16,7 @@ def get_base64_image(path):
         data = img_file.read()
     return base64.b64encode(data).decode()
 
-image_path = "object_detection\photo-ai.jpeg"
+image_path = "object_detection/photo-ai.jpeg"
 base64_img = get_base64_image(image_path)
 
 st.markdown(
