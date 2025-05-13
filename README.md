@@ -58,7 +58,7 @@ object_detection/
 ## ▶️ Run the App
 
 ```bash
-streamlit run app.py
+streamlit run app copy.py
 ```
 
 Then open your browser at: [http://localhost:8501](http://localhost:8501)
