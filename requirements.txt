@@ -1,5 +1,26 @@
+# Streamlit App and Dependencies
 streamlit==1.33.0
+
+# PyTorch (compatible CPU version)
 torch==2.2.2+cpu
+
+# YOLOv8 Ultralytics
 ultralytics==8.0.178
+
+# OpenCV for image/video processing (headless for cloud environments)
 opencv-python-headless==4.8.0.74
+
+# Pillow for image manipulation
 Pillow==10.1.0
+
+# Rich for improved exception logging in Streamlit
+rich>=10.14.0
+
+# Markdown parsing for Streamlit's rich output
+markdown-it-py>=2.2.0
+
+# Pygments for syntax highlighting (if using code display)
+pygments<3.0.0,>=2.13.0
+
+# Other necessary dependencies
+mdurl~=0.1
